@@ -2,7 +2,7 @@
 Camera Classifier v0.1 Alpha
 Copyright (c) NeuralNine
 
-Instagram: @neuralnine
+Instagram: @neu ralnine
 YouTube: NeuralNine
 Website: www.neuralnine.com
 '''
